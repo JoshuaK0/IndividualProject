@@ -115,3 +115,99 @@
 ### 15 Oct 2023
 
 * *0.5 hour* Initialized the Unity Project with base settings.
+
+### 16 Oct 2023
+
+* *2 hour* Implement state machine pattern in Unity
+
+### 17 Oct 2023
+
+* *1 hour* Import character models
+
+### 18 Oct 2023
+
+* *2.5 hour* Create player movement logic
+
+### 19 Oct 2023
+
+* *2.5 hour* Polish player movement logic
+
+### 20 Oct 2023
+
+* *1.5 hour* Polish player movement logic
+
+### 20 Oct 2023
+
+* *1.5 hour* Fix wallrunning bug
+
+### 21 Oct 2023
+
+* *2 hour* Create vision code generator for AI
+
+### 22 Oct 2023
+
+* *4 hour* Create target manager for AI
+
+### 23 Oct 2023
+
+* *3 hour* Fix edge cases with the target manager for AI
+
+### 23 Oct 2023
+
+* *2 hour* Implement AI vision Logic
+
+### 24 Oct 2023
+
+* *2 hour* Implement AI Navigation Logic
+
+### 25 Oct 2023
+
+* *3 hour* Implement AI Detection Logic
+
+### 27  Oct 2023
+
+* *3 hour* Fix bug with AI Detection Logic
+
+### 28  Oct 2023
+
+* *1.5 hour* Create AI search algorithm
+
+### 29  Oct 2023
+
+* *1.5 hour* Implement AI search algorithm
+
+### 4  Nov 2023
+
+* *2.5 hour* Modify AI search algorithm to be more realistic
+
+### 5  Nov 2023
+
+* *0.5 hour* Create AI cover finding system
+
+### 6  Nov 2023
+
+* *2.5 hour* Implement AI cover finding system
+
+### 7  Nov 2023
+
+* *0.5 hour* Testing with multiple AIs
+
+### 8  Nov 2023
+
+* *3 hour* Reworked target manager to support multiple AIs
+
+### 9  Nov 2023
+
+* *3 hour* Create health interface and damage system
+
+### 10  Nov 2023
+
+* *3 hour* Create basic AI shooting mechanic
+
+### 11  Nov 2023
+
+* *1.5 hour* Create bullet trail visuals
+
+### 13  Nov 2023
+
+* *2.5 hour* Create player basic shooting mechanic
