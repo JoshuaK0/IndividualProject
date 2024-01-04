@@ -51,7 +51,6 @@
 
 * *3 hours* Drafted potential questions and tasks for user testing.
 
-
 ### 27 Sept 2023
 
 * *1 hour* Met with project supervisor and received feedback.
@@ -71,7 +70,6 @@
 
 * *2.5 hours* Created detailed research documents on player, enemy, and spatial information representation.
 
-
 ### 4 Oct 2023
 
 * *1 hour* Reviewed CHI Play proceedings for relevant papers.
@@ -84,7 +82,6 @@
 ### 6 Oct 2023
 
 * *2 hours* Continued refining enemy location representation concepts.
-
 
 ### 8 Oct 2023
 
@@ -164,50 +161,166 @@
 
 * *3 hour* Implement AI Detection Logic
 
-### 27  Oct 2023
+### 27 Oct 2023
 
 * *3 hour* Fix bug with AI Detection Logic
 
-### 28  Oct 2023
+### 28 Oct 2023
 
 * *1.5 hour* Create AI search algorithm
 
-### 29  Oct 2023
+### 29 Oct 2023
 
 * *1.5 hour* Implement AI search algorithm
 
-### 4  Nov 2023
+### 4 Nov 2023
 
 * *2.5 hour* Modify AI search algorithm to be more realistic
 
-### 5  Nov 2023
+### 5 Nov 2023
 
 * *0.5 hour* Create AI cover finding system
 
-### 6  Nov 2023
+### 6 Nov 2023
 
 * *2.5 hour* Implement AI cover finding system
 
-### 7  Nov 2023
+### 7 Nov 2023
 
 * *0.5 hour* Testing with multiple AIs
 
-### 8  Nov 2023
+### 8 Nov 2023
 
 * *3 hour* Reworked target manager to support multiple AIs
 
-### 9  Nov 2023
+### 9 Nov 2023
 
 * *3 hour* Create health interface and damage system
 
-### 10  Nov 2023
+### 10 Nov 2023
 
 * *3 hour* Create basic AI shooting mechanic
 
-### 11  Nov 2023
+### 11 Nov 2023
 
 * *1.5 hour* Create bullet trail visuals
 
-### 13  Nov 2023
+### 13 Nov 2023
 
 * *2.5 hour* Create player basic shooting mechanic
+
+## Week 5
+
+### 15 Nov 2023
+
+* *2 hours* Improved enemy AI pathfinding for stealth.
+* *1 hour* Internal testing of AI stealth behaviors.
+
+### 17 Nov 2023
+
+* *2 hours* Enhanced enemy AI decision-making.
+* *1 hour* Refactored code for maintainability.
+
+### 20 Nov 2023
+
+* *2 hours* Integrated dynamic health system.
+* *1 hour* Bug fixing in health system code.
+
+### 22 Nov 2023
+
+* *2 hours* Enhanced AI response to stealth actions.
+* *1 hour* Worked on combat AI attack patterns.
+
+### 24 Nov 2023
+
+* *2 hours* Development and refinement of test level.
+* *1 hour* Implemented additional AI behaviors.
+
+## Week 6
+
+### 27 Nov 2023
+
+* *2 hours* Developed player health regeneration system.
+* *1 hour* Testing health system.
+
+### 29 Nov 2023
+
+* *3 hours* Integrated advanced AI tactics for combat.
+
+### 1 Dec 2023
+
+* *2 hours* Implemented UI elements for enemy awareness.
+
+## Week 7
+
+### 4 Dec 2023
+
+* *2.5 hours* Extensive debugging for AI modules.
+
+### 6 Dec 2023
+
+* *2 hours* Enhanced AI stealth and reactions.
+* *1 hour* Updated project documentation.
+
+### 8 Dec 2023
+
+* *3 hours* Balanced and tweaked AI difficulty levels.
+
+## Week 8
+
+### 11 Dec 2023
+
+* *2.5 hours* Conducted code review focusing on AI systems.
+
+### 13 Dec 2023
+
+* *2 hours* Debugged and optimized new AI behaviors.
+
+### 14 Dec 2023
+
+* *2 hours* Refined AI tactical decision-making.
+
+### 18 Dec 2023
+
+* *2 hours* Optimized pathfinding algorithms.
+* *1 hour* Tested AI performance in complex scenarios.
+
+## Week 9
+
+### 20 Dec 2023
+
+* *3 hours* Developed AI behavior for varied combat styles.
+
+### 22 Dec 2023
+
+* *2 hours* Refined UI for better player feedback.
+
+## Week 10
+
+### 26 Dec 2023
+
+* *2.5 hours* Enhanced AI reactions to dynamic game environments.
+* *1 hour* Tested AI adaptability in new scenarios.
+
+### 28 Dec 2023
+
+* *2 hours* Optimized in-game AI communication systems.
+* *1 hour* Conducted performance tests for AI communication enhancements.
+
+### 29 Dec 2023
+
+* *2.5 hours* Implemented a more sophisticated AI cover system.
+
+## Week 11
+
+### 2 Jan 2024
+
+* *3 hours* Developed AI strategies for flanking and ambush techniques.
+* *1 hour* Integrated new AI strategies into combat scenarios.
+
+### 4 Jan 2024
+
+* *3 hours* Finalized AI behaviors for launch readiness.
+* *1 hour* Documented the final AI implementation details.
+
+
